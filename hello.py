@@ -14,6 +14,9 @@ def main():
     hello(say_what())
     return 0
 
+def new_func():
+    pass
+
 
 if __name__ == '__main__':
     sys.exit(main())
